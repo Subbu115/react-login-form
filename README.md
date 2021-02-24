@@ -1,5 +1,5 @@
 # react-login-form
-######This is basic login form using reactjs.
+##This is basic login form using reactjs.
 
 1. VS-Code is the IDE used for this application.
 2. Initially, need to install Node in our computer and run the intaller.
